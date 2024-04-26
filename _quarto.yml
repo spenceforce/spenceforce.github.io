@@ -4,6 +4,7 @@ website:
   title: "SpenceForce"
   site-url: https://www.spenceforce.io
   description: NLP and data science from simple to spectactular
+  favicon: favicon.ico
   navbar:
     right:
       - about.qmd
