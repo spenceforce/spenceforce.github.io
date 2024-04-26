@@ -1,6 +1,5 @@
 project:
   type: website
-
 website:
   title: "SpenceForce"
   site-url: https://www.spenceforce.io
@@ -18,6 +17,5 @@ format:
   html:
     theme: cosmo
     css: styles.css
-
-
-
+execute:
+  freeze: auto
