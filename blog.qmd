@@ -2,4 +2,5 @@
 title: "Blog"
 listing:
   contents: posts
+  feed: true
 ---
