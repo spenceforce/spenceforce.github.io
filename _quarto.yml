@@ -1,22 +1,25 @@
 project:
   type: website
+
 website:
   title: "SpenceForce"
   site-url: https://www.spenceforce.io
-  description: NLP and data science from simple to spectactular
-  favicon: favicon.ico
+  description: Spencer Mitchell's personal website.
+  search: true
+  back-to-top-navigation: true
   navbar:
-    right:
-      - about.qmd
-      - icon: github
-        href: https://github.com/spenceforce
-      - icon: twitter
-        href: https://twitter.com/spence_force
-      - icon: rss
-        href: index.xml
+    left:
+      - href: index.qmd
+        text: Home
+      - href: https://nlpbook.spenceforce.io
+        text: NLP Book
+      - blog.qmd
+
 format:
   html:
     theme: cosmo
     css: styles.css
+    toc: true
+
 execute:
   freeze: auto
