@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - favicon.ico
 
 website:
   title: "SpenceForce"
