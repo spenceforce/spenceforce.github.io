@@ -1,5 +1,23 @@
----
-title: "SpenceForce"
+Hi, I’m Spencer Mitchell. I am passionate about leveraging technology to tackle complex challenges by creating innovative AI solutions, advancing scientific research, and collaborating on impactful software projects.
+
 ---
 
-Welcome to my site! I'm Spencer Mitchell, a computational biologist specializing in therapeutic protein design.
+# About Me
+
+As a scientist at Insmed, I specialize in developing biotherapeutics by leveraging state-of-the-art protein models and collaborating closely with wet lab scientists to bridge computational methods with experimental research. I also bring experience as a software build engineer at Ansys, where I contributed to the development of Fluent, a leading fluid dynamics simulation software. My primary responsibilities involved transitioning the build system to SCons, overseeing compiler updates, and maintaining build infrastructure.
+
+My academic background reflects a dedication to innovation and precision. At Dartmouth College, I earned a Master of Science in Computer Science on scholarship while working in the Chris Bailey-Kellogg lab. At the University of California, San Diego, I completed a Bachelor of Science in Biochemistry and Cell Biology, conducting research in the Douglass Forbes lab. Between UCSD and Dartmouth College, I pursued postbaccalaureate studies in Computer Science at Oregon State University, supported by a research scholarship, and contributed to research in the Eric Walkingshaw lab. This strong educational foundation complements my professional expertise in therapeutic design and software engineering.
+
+My academic contributions include a first author publication, [Building blocks and blueprints for bacterial autolysins](https://doi.org/10.1371/journal.pcbi.1008889), and secondary author publication, [Bioinformatics-driven discovery of novel Clostridioides difficile lysins and experimental comparison with highly active benchmarks.](https://doi.org/10.1002/bit.27759). These works highlight my expertise in bridging computational methods with experimental biology.
+
+---
+
+# Featured Projects
+
+I'm working on a book, [*NLP: From Simple to Spectacular*](https://nlpbook.spenceforce.io), a guide to natural language processing that introduces key concepts and explores advanced applications in a practical and accessible way.
+
+I also developed [*pdb-attach*](https://github.com/spenceforce/pdb-attach), an open-source Python library designed to attach the pdb debugger to processes that are no longer connected to the terminal.&#x20;
+
+# Let's Connect
+
+I'm always interested in chatting, whether that's about code or really anything. You can reach me through [email](mailto:smitchell556@gmail.com) or [LinkedIn](https://www.linkedin.com/in/spencerjmitchell/).
