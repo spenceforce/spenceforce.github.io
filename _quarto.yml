@@ -9,6 +9,7 @@ website:
   description: Spencer Mitchell's personal website.
   search: true
   back-to-top-navigation: true
+  open-graph: true
   navbar:
     left:
       - href: index.qmd
@@ -16,7 +17,13 @@ website:
       - href: https://nlpbook.spenceforce.io
         text: NLP Book
       - blog.qmd
-    right:
+    tools:
+      - icon: envelope-at
+        href: mailto:smitchell556@gmail.com
+      - icon: linkedin
+        href: https://www.linkedin.com/in/spencerjmitchell/
+      - icon: github
+        href: https://github.com/spenceforce
       - icon: rss
         href: blog.xml
 
@@ -25,6 +32,11 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    email-obfuscation: javascript
 
 execute:
   freeze: auto
+
+theme:
+  light: flatly
+  dark: darkly
