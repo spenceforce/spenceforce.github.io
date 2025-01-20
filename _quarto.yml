@@ -17,6 +17,8 @@ website:
       - href: https://nlpbook.spenceforce.io
         text: NLP Book
       - blog.qmd
+      - faq.qmd
+        text: FAQ
     tools:
       - icon: envelope-at
         href: mailto:smitchell556@gmail.com
