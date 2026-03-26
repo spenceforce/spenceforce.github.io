@@ -1,0 +1,6 @@
+---
+title: "Entry level and LLMs"
+description: "Thoughts and advice for entry level workers on LLMs"
+date: "6/26/2026"
+draft: true
+---
