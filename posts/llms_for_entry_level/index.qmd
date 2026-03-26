@@ -1,6 +1,18 @@
 ---
 title: "Entry level and LLMs"
 description: "Thoughts and advice for entry level workers on LLMs"
-date: "6/26/2026"
+date: "3/26/2026"
 draft: true
 ---
+
+I use LLMs every day. I think they're great, but I worry about entry level workers. It's not a fear they will be replaced by AI, but a fear they will downskill and become less competitive in the job market. These thoughts come from interviewing candidates for entry level positions and interacting with wet lab scientists.
+
+# What is an LLM?
+
+This may seem like a silly question, but when I talk to end users about LLMs I get the sense they don't understand how LLMs work. I'm not talking about the nuts and bolts of AI and transformers, but at a high level abstract view. You don't need to understand them, but having a birds eye view can help shape how you think about and use them.
+
+At their core LLMs predict the next word in a piece of text. It's all about probability; the LLM output says some words are more likely than others given the text so far. It does this over and over again, building on it's previous outputs until it signals it's done. This means LLMs aren't trained to be correct, but to say things that sound reasonable. In many cases they say things that are correct, but that's not guaranteed.
+
+## LLMs lie
+
+When LLMs say things that sound correct but are false or misleading, this is called hallucination. I call it lying. I've met very few people that are skeptical of LLM outputs and that should scare you.
